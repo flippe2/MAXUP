@@ -1,0 +1,14 @@
+Hardware License – CERN-OHL-S v2
+
+This hardware design is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S).
+
+You may redistribute and modify this design under the terms of the CERN-OHL-S v2 license.
+
+You must distribute all modifications and derived works under the same license, and include the original sources or a reference to them.
+
+For full terms and conditions, see:  
+https://ohwr.org/cern_ohl_s_v2.txt
+
+By using this license, we aim to foster a community of collaborative hardware development, while ensuring that improvements remain open and benefit the ecosystem.
+
+(C) 2025 - MAXUP Open Lab Team
