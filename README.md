@@ -1,7 +1,9 @@
-# MAXUP
-Welcome to the official repository of the **MAXUP** project: an integrated system for personal transformation through **sports**, **education**, **productive work**, and artificial intelligence
+# 🚀 MAXUP - Official Whitepaper
+
+Welcome to the official repository of the **MAXUP** project: an integrated system for personal transformation through **sports**, **education**, **productive work**, and artificial intelligence.
 
 see also http://maxup.infinityfreeapp.com
+
 ---
 
 ## 📘 About
@@ -15,7 +17,7 @@ This repository contains the **founding Whitepaper**, a comprehensive synthesis 
 ## 📄 Repository Contents
 
 - `MAXUP_Whitepaper.docx` – The full document with all concepts, models, applications, and innovations.
-- `Résumé_MAXUP.pdf` – A condensed version for investors, partners, or press.
+- `SummaryMAXUP.pdf` – A condensed version for investors, partners, or press.
 - `README.md` – This file.
 - `LICENSE` – The project's open-source license.
 - *(Coming soon)* Prototype files: electronic schematics, equipment sketches, etc.
