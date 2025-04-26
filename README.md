@@ -1,8 +1,11 @@
+
+# Welcome to ![MAXUP Logo](images/maxup-logo.png) <span style="color:orange">MAXUP</span> 
+
 # 🚀 MAXUP - Official Whitepaper
 
 Welcome to the official repository of the **MAXUP** project: an integrated system for personal transformation through **sports**, **education**, **productive work**, and artificial intelligence.
 
-see also http://maxup.infinityfreeapp.com
+see also http://maxup.infinityfreeapp.com (there is a "simulation" demo)
 
 ---
 
