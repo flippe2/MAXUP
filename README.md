@@ -1,5 +1,6 @@
 
-# Welcome to ![MAXUP Logo](images/maxup-logo.png) <span style="color:orange">MAXUP</span> 
+# Welcome to <span style="color:orange">MAXUP</span> 
+![Logo](images/logo.png)
 
 # 🚀 MAXUP - Official Whitepaper
 
