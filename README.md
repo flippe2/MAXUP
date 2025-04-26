@@ -1,5 +1,5 @@
 
-# Welcome to 
+# Welcome to <span style="color:orange">MAXUP</span>
 ![Logo](images/logoSmall.png)
 <span style="color:orange">MAXUP</span> 
 
